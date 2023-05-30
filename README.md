@@ -1,12 +1,14 @@
 # QmlDock
 纯QML实现的Dock悬浮、停靠、拖动功能
 
-## 效果展示
-
-[video(video-cA0mHu1b-1685424474149)(type-csdn)(url-https://live.csdn.net/v/embed/300370)(image-https://video-community.csdnimg.cn/vod-84deb4/170f1c60fe9271edbd710764b3ec0102/snapshots/f4d4e565bdf64de098d6853d3fe31f06-00002.jpg?auth_key=4839013898-0-0-5beb5283c44d5c50355355629f75b432)(title-Qml Dock效果演示)]
-
 ## 介绍
 这是一个使用纯qml实现的Dock组件，它支持停靠、浮动、窗体分离、窗体独立、大小调整等功能。开源它的目的是为了寻求更多的功能(如侧边栏)、更好的结构设计、更通用的应用场景以及更好的稳定性和易用性。欢迎批评和指正。
+
+## 截图
+![image](https://github.com/longtwilight/QmlDock/assets/59431315/d3e4489e-acae-43b4-a266-dbd13878a879)
+![image](https://github.com/longtwilight/QmlDock/assets/59431315/96c4eadc-b9b7-47ce-916b-e3fe31055650)
+![image](https://github.com/longtwilight/QmlDock/assets/59431315/bf16a0d5-9190-48e4-8f37-ac9749484d0d)
+
 
 ## 环境
 	Qt版本：Qt6.2.4
